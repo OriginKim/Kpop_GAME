@@ -23,7 +23,7 @@
 
 본 코드는 **파일명 규칙**에 강하게 의존합니다. 아래 규칙을 반드시 지켜주세요.
 ---
-project/
+<pre>project/
 ├─ game.py                # 본 파이썬 스크립트
 ├─ correct.wav            # 정답 효과음
 ├─ wrong.wav              # 오답 효과음
@@ -34,7 +34,7 @@ project/
 ├─ Bubble3.wav
 ├─ Bubble5.wav
 └─ ... (모든 노래 동일 규칙)
-
+</pre>
 ---
 
 ## 🔐 파일명 규칙 (중요!)
